@@ -41,11 +41,6 @@ Built backend services, APIs, and data-driven applications using modern web and 
 - Email: [2020n02900@gmail.com](mailto:2020n02900@gmail.com)
 - GitHub: [MeerBaloch7](https://github.com/meerbaloch7)
 
-## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meerbaloch7&show_icons=true&theme=github_dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meerbaloch7&layout=compact&theme=github_dark)
-
-Open to collaborating on healthcare AI, machine learning, and software engineering projects.
+Open to collaborating on healthcare AI, machine learning, and Agentic AI projects.
 
