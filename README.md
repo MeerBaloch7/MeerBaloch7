@@ -1,6 +1,6 @@
 #       Meer Muhammad
 
-AI Engineer | Software Developer | Data Scientist
+AI Engineer | Data Scientist | ML Engineer
 
 I build practical AI systems and software solutions with a focus on healthcare, machine learning, and scalable products. I enjoy turning complex problems into reliable, production-ready applications.
 
