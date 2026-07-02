@@ -1,4 +1,4 @@
-# Meer Muhammad
+#       Meer Muhammad
 
 AI Engineer | Software Developer | Data Scientist
 
@@ -7,7 +7,7 @@ I build practical AI systems and software solutions with a focus on healthcare, 
 ## About
 - AI Engineer at MTBC CareCloud Inc.
 - 1+ years of experience in AI, software development, and data science
-- BS in Computer Engineer from the National University of Science and Technology (NUST), Islamabad
+- BS in Computer Engineer from the National University of Science and Technology **(NUST)**, Islamabad
 - Core interests: Agentic AI ,  Machine learning, Deep learning, MLOps, Computer Vision, and NLP
 
 ## Skills
@@ -28,13 +28,13 @@ Working on healthcare-focused AI solutions, model deployment, data pipelines, an
 Built backend services, APIs, and data-driven applications using modern web and cloud technologies.
 
 ## Featured Projects
-- Medical Chat Bot Evaluation Using BERTScore — Evaluated conversational AI responses using semantic similarity metrics and model analysis. [View on GitHub](https://github.com/MeerBaloch7/Medical-Chatbot-Evaluation-using-BERTScore)
-- Sales Data Analytics Chatbot — Built an analytics-focused chatbot for interpreting sales data and generating insights. [View on GitHub](https://github.com/MeerBaloch7/sales-data-analyst-chatbot)
-- Predicting Student Exam Scores Using LightGBM and CatBoost — Kaggle competition project with advanced feature engineering and ensemble-based modeling. [View on GitHub](https://github.com/MeerBaloch7/Predicting-Student-Test-Scores)
-- TipAI: Intelligent Restaurant Tip Prediction System — Django-based web app with XGBoost for predicting optimal tips from dining context. [View on GitHub](https://github.com/MeerBaloch7/TipAI-django-application)
+- Medical Chat Bot Evaluation Using BERTScore — Evaluated conversational AI responses using semantic similarity metrics and model analysis. [Repo](https://github.com/MeerBaloch7/Medical-Chatbot-Evaluation-using-BERTScore)
+- Predicting Student Exam Scores Using LightGBM and CatBoost — Kaggle competition project with advanced feature engineering and ensemble-based modeling. [Repo](https://github.com/MeerBaloch7/Predicting-Student-Test-Scores)
+- Sales Data Analytics Chatbot — Built an analytics-focused chatbot for interpreting sales data and generating insights. [Repo](https://github.com/MeerBaloch7/sales-data-analyst-chatbot)
+- TipAI: Intelligent Restaurant Tip Prediction System — Django-based web app with XGBoost for predicting optimal tips from dining context. [Repo](https://github.com/MeerBaloch7/TipAI-django-application)
 
 ## Education
-- BS Computer Engineer, National University of Science and Technology (NUST), Islamabad
+- BS Computer Engineer, National University of Science and Technology **(NUST)**, Islamabad
 
 ## Connect
 - LinkedIn: [Meer Muhammad](https://www.linkedin.com/in/meer-muhammad-972aa722a)
